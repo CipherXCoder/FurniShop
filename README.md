@@ -1,37 +1,36 @@
-# FurniShop - E-commercw website
+# FurniShop
 
-This project is an **E-commerce** website built using **HTML** and **CSS**. It is designed to showcase frontend development skills, including layout, design, and responsiveness, with a focus on writing clean, structured code.
+FurniShop is a modern, responsive eCommerce website built with HTML and CSS. This project serves as a practice project for web development beginners to hone their skills in creating and styling web pages.
 
-## ✨ Features
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup and Installation](#setup-and-installation)
 
-- Fully responsive design
-- Simple and clean HTML structure
-- Styled with modern CSS techniques (Flexbox, Grid)
-- Optimized for desktop and mobile devices
-- Custom animations and transitions for a smooth user experience
+## Project Overview
 
-## 🛠️ Technologies Used
+FurniShop is designed to showcase a variety of furniture products with a clean, minimalist interface. The project demonstrates essential web development practices, including the use of HTML for structure and CSS for styling, and includes a responsive design that adapts to different screen sizes.
 
-- **HTML5**: For the page structure and content
-- **CSS3**: For styling, layout, and responsiveness
+You can view the live project demo [here](#) _(https://furni-shop-kohl.vercel.app/)_.
 
-## 🚀 Getting Started
+## Features
 
-To get a local copy up and running, follow these simple steps:
+- **Responsive design:** The website is fully responsive and adjusts to different device sizes.
+- **Product showcase:** Includes sections for featured products and categories.
+- **Simple and clean UI:** Focused on minimalism and user-friendly design.
+- **Navigation bar:** Functional navbar for easy navigation across different pages.
+- **Footer section:** Includes links to social media and contact information.
 
-### Prerequisites
+## Technologies Used
 
-- A basic understanding of **HTML** and **CSS**
-- Any modern browser like **Google Chrome**, **Microsoft Edge** or **Firefox**
-- A text editor like **VS Code**
+- **HTML5:** For creating the structure and content of the website.
+- **CSS3:** For styling, layout, and responsive design.
 
-### Installation
+## Setup and Installation
 
-1. Clone the repository:
+To run this project locally, follow these steps:
 
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/CipherXCoder/FurniShop.git
-
-## Live Demo
-
-[inbio-ten.vercel.app](https://furni-shop-kohl.vercel.app/)
